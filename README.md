@@ -1,4 +1,4 @@
-# How-to-learn-HTML
+# Lý thuyết cơ bản và tạo dựng Front-end
 ---
 ## HTML cơ bản
 ### [1. Tổng quan về HTML](https://github.com/huynhdn147/How-to-learn-HTML/blob/master/HTML/TongQuanVeHTML.md)
