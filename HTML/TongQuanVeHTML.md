@@ -16,5 +16,5 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 ## Đánh dấu
  #### Có bốn loại phần tử đánh dấu trong **HTML**:
  - Đánh dấu Có cấu trúc miêu tả mục đích của phần văn bản
- - Đánh dấu trình bày miêu tả phần hiện hình trực quan của phần văn bản bất kể chức năng của nó là gì (ví dụ, ```<b>boldface</b> ```sẽ hiển thị đoạn văn bản in đậm) 
+ - Đánh dấu trình bày miêu tả phần hiện hình trực quan của phần văn bản bất kể chức năng của nó là gì (ví dụ, ```<b>boldface</b> ```sẽ hiển thị đoạn văn bản:"**boldface**") 
 (Chú ý là cách dùng đánh dấu trình bày này bây giờ không còn được khuyên dùng mà nó được thay thế bằng cách dùng CSS),
