@@ -12,8 +12,8 @@ Bằng cách dùng **HTML** động hoặc **Ajax**, lập trình viên có th�
 gõ vào ngay từ những dòng đầu tiên – cho đến những công cụ xuất bản WYSIWYG phức tạp. Hypertext là cách mà các trang Web (các tài liệu HTML) được kết nối với nhau. Và như thế,
 đường link có trên trang Web được gọi là Hypertext. Như tên gọi đã gợi ý, **HTML** là ngôn ngữ đánh dấu bằng thẻ (Markup Language), nghĩa là bạn sử dụng **HTML** để đánh dấu một 
 tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách để cấu trúc nó để hiển thị ra màn hình.
-## Đánh dấu
 ---
+## Đánh dấu
  #### Có bốn loại phần tử đánh dấu trong **HTML**:
  - Đánh dấu Có cấu trúc miêu tả mục đích của phần văn bản
  - Đánh dấu trình bày miêu tả phần hiện hình trực quan của phần văn bản bất kể chức năng của nó là gì (ví dụ, ```<b>boldface</b> ```sẽ hiển thị đoạn văn bản in đậm) 
