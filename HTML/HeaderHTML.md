@@ -139,3 +139,20 @@ p {color:blue;}
 </html>
 ```
 2.5.**Thẻ <script> trong HTML**
+- Thẻ <script> được sử dụng để viết các đoạn mã với ngôn ngữ  JavaScript.  
+Ví dụ:  
+```
+<!DOCTYPE html>
+<html>
+<body>
+ 
+<p id="demo"></p>
+ 
+<script>
+document.getElementById("demo").innerHTML = "Xin chào JavaScript!";
+</script>
+ 
+</body>
+</html>
+```
+Chúng ta sẽ đi sâu hơn với thẻ `<script>` và ngôn ngữ JavaScript tại [đây](https://www.facebook.com/huynh14789)
