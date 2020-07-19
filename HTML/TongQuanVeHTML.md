@@ -86,5 +86,27 @@ Nội dung trong thẻ body sẽ được hiển thị trong cửa sổ trình d
 
 Nội dung trong thẻ title sẽ không hiển thị.
 ```
-**Thẻ ```<style>``` trong HTML**
+**Thẻ ```<style>``` trong HTML: **
+- Thẻ <style> được sử dụng để chứa kiểu trang trí cho trang HTML.
+- Trong thẻ <style> bạn có thể quy định cách các thành phần HTML sẽ được hiển thị trên trình duyệt:
+ Ví Dụ:
+ ```
+ <!DOCTYPE html>
+<html>
+
+<title>Tiêu đề trang</title>
+
+<style>
+body {background-color:yellow;}
+p {color:blue;}
+</style>
+
+<body>
+<h1>Đây là đề mục</h1>
+<p>Đây là đoạn văn bản.</p>
+</body>
+
+</html>
+```
+![Kết quả](https://github.com/huynhdn147/SourceImage/blob/master/115744921_3332021253690574_2369636928626870614_n.png)
 
