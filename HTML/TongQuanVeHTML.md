@@ -43,9 +43,23 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 ```
 <!DOCTYPE html>
 ```
-**Tiêu đề (HEAD)**  
+**Thẻ HEAD**  
 - Thẻ <head> được sử dụng để chứa dữ liệu về metadata.  
 - Metadata là những dữ liệu phụ trợ cho một trang HTML, những dữ liệu này không hiển thị khi người dùng duyệt trang.  
 - Metadata thường được dùng để định nghĩa tiêu đề của trang, gọi css, gọi scripts hay cung cấp những thông tin khác.  
 - Những thẻ sau đây được coi là thẻ metadata: **title**, **style** , **meta**, **link**, **script** và **base** .  
+- **Không khuyến khích** Bạn có thể làm giảm sự phức tạp trong HTML bằng cách bỏ thẻ <head>, Ví Dụ:
+ ```
+ <!DOCTYPE html>
+<html>
+<title>Tiêu đề trang</title>
+<body>
+ 
+<h1>Đề mục</h1>
+<p>Đoạn văn bản.</p>
+ 
+</body>
+</html>
+```
+ 
 
