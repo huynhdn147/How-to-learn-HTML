@@ -15,14 +15,14 @@
 </body>
 </html>
 ```
-**KHAI BÁO <!DOCTYPE>**  
+1. **KHAI BÁO <!DOCTYPE>**  
 - Khai báo <!DOCTYPE> định nghĩa kiểu tài liệu HTML và giúp cho trình duyệt hiển thị website một cách chính xác.  
 - Nó chỉ được hiển thị một lần ở phía trên của trang. Trước bất kỳ thẻ HTML nào khác. Nó không phân biệt giữa chữ hoa và chữ thường.  
 - Khai báo <!DOCTYPE> sử dụng cho HTML5 là:  
 ```
 <!DOCTYPE html>
 ```
-**Thẻ HEAD**  
+2. **Thẻ HEAD**  
 - Thẻ <head> được sử dụng để chứa dữ liệu về metadata.  
  Ví dụ
  ```
@@ -49,7 +49,7 @@
 </body>
 </html>
 ```
-**Tiêu đề ```<title>```**
+2.1.**Tiêu đề ```<title>```**
 - Thẻ <title> được dùng để tạo tiêu đề cho trang HTML.
 - Thẻ <title> là thẻ bắt buộc trong HTML/XHTML.
 - Thẻ <title> có các chức năng:  
@@ -75,7 +75,7 @@ Nội dung trong thẻ body sẽ được hiển thị trong cửa sổ trình d
 Nội dung trong thẻ title sẽ không hiển thị.
 ```
 ---
-**Thẻ ```<style>``` trong HTML:**
+2.2.**Thẻ ```<style>``` trong HTML:**
 - Thẻ <style> được sử dụng để chứa kiểu trang trí cho trang HTML.
 - Trong thẻ <style> bạn có thể quy định cách các thành phần HTML sẽ được hiển thị trên trình duyệt:
  Ví Dụ:
@@ -101,12 +101,12 @@ p {color:blue;}
 
 ![Kết quả](https://github.com/huynhdn147/SourceImage/blob/master/115744921_3332021253690574_2369636928626870614_n.png)  
 ---
-**Thẻ ```<link>``` trong HTML:**
+2.3.**Thẻ ```<link>``` trong HTML:**
 - Thẻ ```<link>``` dùng để liên kết tới các tài nguyên bên ngoài trang HTML.  
 - Thẻ ```<link>``` có thể được dùng để gọi tới các tệp tin CSS:  
 ```<link rel="stylesheet" href="style.css">```  
 
-**Thẻ `<meta>` trong HTML**
+2.4.**Thẻ `<meta>` trong HTML**
 - Thẻ <meta> được sử dụng để tạo miêu tả, từ khóa, thông tin tác giả và các thông tin khác cho trang HTML.
 - Những thông tin này được sử dụng bởi trình duyệt (cách hiển thị nội dung), bởi các công cụ tìm kiếm (từ khóa) và những dịch vụ web khác.  
 - Các Ví dụ về thẻ `<meta>`  
@@ -138,3 +138,4 @@ p {color:blue;}
  
 </html>
 ```
+2.5.**Thẻ <script> trong HTML**
