@@ -162,6 +162,7 @@ Chúng ta sẽ đi sâu hơn với thẻ `<script>` và ngôn ngữ JavaScript t
   - Trả lời:` Liên kết tương đối là những liên kết không có chứa domain, VD: “/page”. Còn liên kết tuyệt đối là liên kết có bao gồm đầy đủ cả domain,VD:  “http://domain.com/page”`  
 - Ví dụ về thẻ `<base>`:  
 `<base href="https://webvn.com/wp-content/uploads/2014/12/" target="_blank">`  
-Nếu trong thẻ body chúng ta có khai bảo một thẻ `<img>` Ví dụ: `<img src="pic_html5.gif">` trình duyệt sẽ tự động tìm ảnh tại địa chỉ `"https://webvn.com/wp-content/uploads/2014/12/pic_html5.gif"` và sẽ tự động mở một trang mới vì chúng ta có khai báo thuộc tính target của thẻ `<base>` là "_blank"
+Nếu trong thẻ body chúng ta có khai bảo một thẻ `<img>` Ví dụ: `<img src="pic_html5.gif">`  
+Vì ta đã quy định địa chỉ trong thẻ `<base>` trình duyệt sẽ tự động tìm ảnh tại địa chỉ `"https://webvn.com/wp-content/uploads/2014/12/pic_html5.gif"` và sẽ tự động mở một trang mới vì chúng ta có khai báo thuộc tính target của thẻ `<base>` là "_blank"
 
 
