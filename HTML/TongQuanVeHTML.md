@@ -117,5 +117,6 @@ p {color:blue;}
 - Thẻ ```<link>``` dùng để liên kết tới các tài nguyên bên ngoài trang HTML.  
 - Thẻ ```<link>``` có thể được dùng để gọi tới các tệp tin CSS:  
 ```<link rel="stylesheet" href="style.css">```
+**Thẻ `<meta>` trong HTML**
 
 
