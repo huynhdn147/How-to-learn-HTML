@@ -155,4 +155,9 @@ document.getElementById("demo").innerHTML = "Xin chào JavaScript!";
 </body>
 </html>
 ```
-Chúng ta sẽ đi sâu hơn với thẻ `<script>` và ngôn ngữ JavaScript tại [đây](https://www.facebook.com/huynh14789)
+Chúng ta sẽ đi sâu hơn với thẻ `<script>` và ngôn ngữ JavaScript tại [đây](https://www.facebook.com/huynh14789)  
+2.6.**Thẻ `<base>` trong HTML:  
+- Thẻ <base> được sử dụng để quy định cách hiển thị liên kết và địa chỉ cho tất cả các liên kết tương đối trong trang.
+  - Câu hỏi:`Sự khác nhau giữa l iên kết tương đối và liên kết tuyệt đối là gì?`
+  - Trả lời:` Liên kết tương đối là những liên kết không có chứa domain, VD: “/page”. Còn liên kết tuyệt đối là liên kết có bao gồm đầy đủ cả domain,VD:  “http://domain.com/page”`
+
