@@ -134,8 +134,7 @@ p {color:blue;}
 `<meta http-equiv="refresh" content="30">`
 - Chỗ đứng của thẻ `<meta>` trong html:  
   - Các thẻ meta được dùng đằng trước thẻ body.  
-**Ví dụ**
-```
+**Ví dụ**```
 <!DOCTYPE html>
 <html>
  <head>
