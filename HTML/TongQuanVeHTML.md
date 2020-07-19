@@ -132,5 +132,22 @@ p {color:blue;}
 `<meta name="author" content="WebVN">`  
   * Làm mới lại trang HTML sau mỗi 30 giây:  
 `<meta http-equiv="refresh" content="30">`
-
+- Chỗ đứng của thẻ `<meta>` trong html:  
+  - Các thẻ meta được dùng đằng trước thẻ body.  
+**Ví dụ**
+```
+<!DOCTYPE html>
+<html>
+ <head>
+<meta name="description" content="Tự học lập trình web với HTML và CSS">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript">
+<meta name="author" content="WebVN">
+<meta charset="UTF-8">
+ </head>
+<body>
+<p>Các thẻ meta được dùng đằng trước thẻ body.</p>
+</body>
+ 
+</html>
+```
 
