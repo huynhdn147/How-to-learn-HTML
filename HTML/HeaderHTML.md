@@ -1,5 +1,6 @@
- # Cấu trúc trang HTML
+ # Cấu trúc thẻ HTML
  ``` 
+ Một thẻ HTML sẽ có cấu trúc như sau
  <!DOCTYPE html>
 <html lang="en">
 <head>
