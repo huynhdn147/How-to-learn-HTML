@@ -45,6 +45,15 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 ```
 **Thẻ HEAD**  
 - Thẻ <head> được sử dụng để chứa dữ liệu về metadata.  
+ Ví dụ
+ ```
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Tiêu đề trang web</title>
+</head>
+ ```
 - Metadata là những dữ liệu phụ trợ cho một trang HTML, những dữ liệu này không hiển thị khi người dùng duyệt trang.  
 - Metadata thường được dùng để định nghĩa tiêu đề của trang, gọi css, gọi scripts hay cung cấp những thông tin khác.  
 - Những thẻ sau đây được coi là thẻ metadata: ```<title>```, ```<style>``` , ```<meta>```,```<link>```, ```<script>``` và ```<base>``` .  
