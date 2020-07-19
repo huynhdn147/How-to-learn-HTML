@@ -109,9 +109,8 @@ p {color:blue;}
 </html>
 ```
 **Kết quả**
-![Kết quả](https://github.com/huynhdn147/SourceImage/blob/master/115744921_3332021253690574_2369636928626870614_n.png)
-**Thẻ <link> trong HTML**
-Thẻ <link> trong HTML
+![Kết quả](https://github.com/huynhdn147/SourceImage/blob/master/115744921_3332021253690574_2369636928626870614_n.png)  
+**Thẻ ```<link>``` trong HTML**
 - Thẻ <link> dùng để liên kết tới các tài nguyên bên ngoài trang HTML.  
 - Thẻ <link> hầu hết được dùng để gọi tới các tệp tin CSS:  
 ```<link rel="stylesheet" href="style.css">```
