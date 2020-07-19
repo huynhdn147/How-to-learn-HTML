@@ -22,15 +22,21 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 ## Tách phần trình bày và nội dung
  - Nỗ lực tách phần nội dung ra khỏi phần hình thức trình bày của trang HTML đã đưa đến sự xuất hiện của các chuẩn mới như XHTML. Các chuẩn này nhấn mạnh vào việc sử dụng thẻ đánh dấu vào việc xác định cấu trúc tài liệu như phần đề mục, đoạn văn, khối văn bản trích dẫn và các bảng, chứ không khuyên dùng các thẻ đánh dấu mang tính chất trình bày trực quan, như ```<font>```, ```<b> (in đậm)```, và ```<i> (in nghiêng)```. Những mã mang tính chất trình bày đó đã được loại bỏ khỏi HTML 4.01 Strict và các đặc tả XHTML nhằm tạo điều kiện cho CSS. CSS cung cấp một giải pháp giúp tách cấu trúc HTML ra khỏi phần trình bày của nội dung của nó. Xem phần tách nội dung và trình bày.
  ## Cấu trúc trang HTML
- ``` <!DOCTYPE html>
+ ``` 
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>Tiêu đề trang web</title>
 </head>
 <body>
     Nội dụng trang web
 </body>
-</html>```
+</html>
+```
+**KHAI BÁO <!DOCTYPE>**
+Khai báo <!DOCTYPE> định nghĩa kiểu tài liệu HTML và giúp cho trình duyệt hiển thị website một cách chính xác.
+Nó chỉ được hiển thị một lần ở phía trên của trang. Trước bất kỳ thẻ HTML nào khác. Nó không phân biệt giữa chữ hoa và chữ thường.
+
