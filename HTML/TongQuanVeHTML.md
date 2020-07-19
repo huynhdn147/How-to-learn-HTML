@@ -37,9 +37,9 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 </html>
 ```
 **KHAI BÁO <!DOCTYPE>**  
-Khai báo <!DOCTYPE> định nghĩa kiểu tài liệu HTML và giúp cho trình duyệt hiển thị website một cách chính xác.  
-Nó chỉ được hiển thị một lần ở phía trên của trang. Trước bất kỳ thẻ HTML nào khác. Nó không phân biệt giữa chữ hoa và chữ thường.  
-Khai báo <!DOCTYPE> sử dụng cho HTML5 là:  
+- Khai báo <!DOCTYPE> định nghĩa kiểu tài liệu HTML và giúp cho trình duyệt hiển thị website một cách chính xác.  
+- Nó chỉ được hiển thị một lần ở phía trên của trang. Trước bất kỳ thẻ HTML nào khác. Nó không phân biệt giữa chữ hoa và chữ thường.  
+- Khai báo <!DOCTYPE> sử dụng cho HTML5 là:  
 ```
 <!DOCTYPE html>
 ```
