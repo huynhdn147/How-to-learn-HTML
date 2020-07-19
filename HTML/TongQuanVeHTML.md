@@ -64,8 +64,8 @@ tài liệu text bằng các thẻ (tag) để nói cho trình duyệt Web cách
 **Tiêu đề ```<title>```**
 - Thẻ <title> được dùng để tạo tiêu đề cho trang HTML.
 - Thẻ <title> là thẻ bắt buộc trong HTML/XHTML.
-- Thẻ <title>:
-  *tạo tiêu đề cho trang, hiển thị trên thanh công cụ của trình duyệt
-  *được sử dụng làm tên trang khi bạn lưu vào bookmark của trình duyệt
-  *hiển thị ở phần tiêu đề trang trong kết quả tìm kiếm (VD: tìm kiếm của google)
+- Thẻ <title>:  
+  *tạo tiêu đề cho trang, hiển thị trên thanh công cụ của trình duyệt  
+  *được sử dụng làm tên trang khi bạn lưu vào bookmark của trình duyệt  
+  *hiển thị ở phần tiêu đề trang trong kết quả tìm kiếm (VD: tìm kiếm của google)  
 
