@@ -122,15 +122,15 @@ p {color:blue;}
 - Thẻ <meta> được sử dụng để tạo miêu tả, từ khóa, thông tin tác giả và các thông tin khác cho trang HTML.
 - Những thông tin này được sử dụng bởi trình duyệt (cách hiển thị nội dung), bởi các công cụ tìm kiếm (từ khóa) và những dịch vụ web khác.  
 - Các Ví dụ về thẻ `<meta>`  
-* Tạo từ khóa dành cho các công cụ tìm kiếm:  
+  * Tạo từ khóa dành cho các công cụ tìm kiếm:  
 `<meta name="keywords" content="HTML, CSS, XML, XHTML, JavaScript">`  
-* Tạo miêu tả:
+  * Tạo miêu tả:
 `<meta name="description" content="Đây là thẻ Meta"`  
-* Thông báo bộ mã ký tự mà trang sử dụng:  
+  * Thông báo bộ mã ký tự mà trang sử dụng:  
 `<meta charset="UTF-8">`
-* Tạo thông tin tác giả:  
+  * Tạo thông tin tác giả:  
 `<meta name="author" content="WebVN">`  
-* Làm mới lại trang HTML sau mỗi 30 giây:  
+  * Làm mới lại trang HTML sau mỗi 30 giây:  
 `<meta http-equiv="refresh" content="30">`
 
 
