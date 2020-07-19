@@ -86,4 +86,5 @@ Nội dung trong thẻ body sẽ được hiển thị trong cửa sổ trình d
 
 Nội dung trong thẻ title sẽ không hiển thị.
 ```
+**Thẻ ```<style>`` trong HTML**
 
